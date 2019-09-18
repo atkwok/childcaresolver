@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Margrett",
+        "times": {
+            "8-10": true,
+            "10-12": false,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Melanie",
+        "times": {
+            "8-10": true,
+            "10-12": true,
+            "12-2": true,
+            "2-4": true,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Tony",
+        "times": {
+            "8-10": false,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Laree",
+        "times": {
+            "8-10": true,
+            "10-12": false,
+            "12-2": false,
+            "2-4": true,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Zella",
+        "times": {
+            "8-10": true,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Georgine",
+        "times": {
+            "8-10": false,
+            "10-12": false,
+            "12-2": true,
+            "2-4": true,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Rochelle",
+        "times": {
+            "8-10": false,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Doug",
+        "times": {
+            "8-10": false,
+            "10-12": true,
+            "12-2": true,
+            "2-4": false,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Kory",
+        "times": {
+            "8-10": false,
+            "10-12": false,
+            "12-2": true,
+            "2-4": false,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Kimberly",
+        "times": {
+            "8-10": false,
+            "10-12": false,
+            "12-2": false,
+            "2-4": false,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Marnie",
+        "times": {
+            "8-10": true,
+            "10-12": true,
+            "12-2": false,
+            "2-4": false,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Mara",
+        "times": {
+            "8-10": true,
+            "10-12": false,
+            "12-2": false,
+            "2-4": true,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Raylene",
+        "times": {
+            "8-10": false,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Lawrence",
+        "times": {
+            "8-10": true,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Bethel",
+        "times": {
+            "8-10": true,
+            "10-12": false,
+            "12-2": false,
+            "2-4": false,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Marcus",
+        "times": {
+            "8-10": true,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Milly",
+        "times": {
+            "8-10": true,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Salome",
+        "times": {
+            "8-10": true,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": true
+        }
+    },
+    {
+        "name": "Murray",
+        "times": {
+            "8-10": false,
+            "10-12": true,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    },
+    {
+        "name": "Jackqueline",
+        "times": {
+            "8-10": true,
+            "10-12": false,
+            "12-2": false,
+            "2-4": true,
+            "4-6": false
+        }
+    }
+]
